@@ -3,4 +3,4 @@ için sonra start.batı çalıştırın sniper çalışsın ondan sonra mfa.exe 
 sonra sniperde mfa token alındı diyecek sniper başlamış olucak ondan sonra da modüller inik değilse hata veriyosa indirin kodların alt yapısı golang+javascript
 go mod init mfa-sniper
 go get github.com/valyala/fasthttp modül hatası hala alıyonuzsa da
-da siktirin gidin gptye sorun hadi iyi url çekmeler "MORVAYandTELEPATİA"
+da siktirin gidin gptye sorun hadi iyi url çekmeler iyi sniperler için "discord.gg/JStore"
