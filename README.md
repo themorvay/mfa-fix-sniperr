@@ -8,5 +8,6 @@ go get github.com/valyala/fasthttp modül hatası hala alıyonuzsa da gptye soru
 EKSTRA: Çoluk çocuğun araplara sattığı sniper budur alın güle güle kullanın.
 
 
+ 
  ![](https://komarev.com/ghpvc/?username=themorvay&amp;repo=mfa-fix-sniper&amp;color=green)
 
